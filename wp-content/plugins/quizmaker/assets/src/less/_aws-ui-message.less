@@ -1,0 +1,38 @@
+.aws-ui-message {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  margin-left: -75px;
+  max-width: 250px;
+  width: 100%;
+  z-index: 999;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 1px 2px 3px 0px rgba(31, 31, 31, 0.62);
+  font-size: 15px;
+  opacity: 0;
+  -webkit-transition: opacity 0.35s;
+  -moz-transition: opacity 0.35s;
+  transition: opacity 0.35s;
+
+  &.show {
+    opacity: 1;
+  }
+
+  &.info {
+    background: #00587A;
+    color: #FFF;
+  }
+
+  &.success {
+    background: #27AE60;
+    color: #FFF;
+  }
+
+  &.error {
+    background: #E91818;
+    color: #FFF;
+  }
+}

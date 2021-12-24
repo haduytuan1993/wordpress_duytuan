@@ -1,0 +1,2511 @@
+# Copyright (C) 2019 Quizmaker project
+# This file is distributed under the same license as the Quizmaker project package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quizmaker project\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-qm-ajax.php:800
+msgid "Success! add fixed questions"
+msgstr ""
+
+#: includes/class-qm-ajax.php:804
+msgid "Error! can not add fixed questions"
+msgstr ""
+
+#: includes/class-qm-ajax.php:820
+msgid "Success! Remove fixed questions"
+msgstr ""
+
+#: includes/class-qm-ajax.php:824
+msgid "Error! Can not remove fixed questions"
+msgstr ""
+
+#: includes/class-qm-ajax.php:844, includes/class-qm-ajax.php:863
+msgid "Success! order fixed questions"
+msgstr ""
+
+#: includes/class-qm-ajax.php:848, includes/class-qm-ajax.php:867
+msgid "Error! can not order fixed questions"
+msgstr ""
+
+#: includes/class-qm-ajax.php:921
+msgid "Success! Assigning users"
+msgstr ""
+
+#: includes/class-qm-ajax.php:925
+msgid "Error! Can not assign users"
+msgstr ""
+
+#: includes/class-qm-ajax.php:941
+msgid "Success! Remove assigned users"
+msgstr ""
+
+#: includes/class-qm-ajax.php:945
+msgid "Error! Can not remove assigned users"
+msgstr ""
+
+#: includes/class-qm-ajax.php:963
+msgid "Success! Email assigned users"
+msgstr ""
+
+#: includes/class-qm-ajax.php:967
+msgid "Error! Can not email assigned users"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1022, includes/class-qm-ajax.php:1186
+msgid "Success! Adding User"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1046, includes/class-qm-ajax.php:1209
+msgid "Success!"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1357, includes/class-qm-form-handler.php:137, includes/class-qm-form-handler.php:441, templates/content-single-test-before-result.php:12
+msgid "First Name"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1358, includes/class-qm-form-handler.php:138, includes/class-qm-form-handler.php:442, templates/content-single-test-before-result.php:17
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1359, includes/class-qm-form-handler.php:139, includes/class-qm-form-handler.php:443, templates/myaccount/form-memberships.php:43, templates/myaccount/form-register.php:19, templates/single-test/result/guest-register.php:34
+msgid "Email address"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1364, includes/class-qm-form-handler.php:144, includes/class-qm-form-handler.php:448
+msgid "is a required field."
+msgstr ""
+
+#: includes/class-qm-ajax.php:1370, includes/class-qm-form-handler.php:150, includes/class-qm-form-handler.php:454, includes/qm-user-functions.php:320
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/class-qm-ajax.php:1372, includes/class-qm-form-handler.php:152, includes/class-qm-form-handler.php:456, includes/qm-user-functions.php:322
+msgid "This email address is already registered."
+msgstr ""
+
+#: includes/class-qm-ajax.php:1381, includes/class-qm-form-handler.php:161, includes/class-qm-form-handler.php:466, includes/qm-user-functions.php:339
+msgid "This username is already registered."
+msgstr ""
+
+#: includes/class-qm-ajax.php:1388, includes/class-qm-form-handler.php:168, includes/class-qm-form-handler.php:475
+msgid "Please re-enter your password."
+msgstr ""
+
+#: includes/class-qm-ajax.php:1391, includes/class-qm-form-handler.php:171, includes/class-qm-form-handler.php:478
+msgid "New passwords do not match."
+msgstr ""
+
+#: includes/class-qm-ajax.php:1832
+msgid "Text"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1836
+msgid "Image"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1840
+msgid "Scale"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1844, includes/admin/class-qm-admin-post-types.php:58
+msgid "Sorting"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1848
+msgid "Guess"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1852, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:413
+msgid "Keyword"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1856, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:428
+msgid "Item Match"
+msgstr ""
+
+#: includes/class-qm-ajax.php:1860, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:443
+msgid "Group Match"
+msgstr ""
+
+#: includes/class-qm-doing.php:38
+msgid "Sorry! You have not permession do this test"
+msgstr ""
+
+#: includes/class-qm-emails.php:26, includes/class-qm-emails.php:35, includes/admin/class-qm-admin-notices.php:98
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-qm-emails.php:280, includes/admin/views/html-admin-user-certificates.php:52
+msgid "Download Certificate"
+msgstr ""
+
+#: includes/class-qm-form-handler.php:203, includes/class-qm-form-handler.php:506
+msgid "Account details changed successfully."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:260
+msgid "Account registered successfully"
+msgstr ""
+
+#: includes/class-qm-form-handler.php:287, includes/class-qm-form-handler.php:291, includes/class-qm-form-handler.php:295, includes/class-qm-form-handler.php:304, includes/class-qm-form-handler.php:313
+msgid "Error"
+msgstr ""
+
+#: includes/class-qm-form-handler.php:291
+msgid "Username is required."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:295
+msgid "Password is required."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:304
+msgid "A user could not be found with this email address."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:313
+msgid "Check your email and click on the activation link."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:339
+msgid "You are now logged in as <strong>%s</strong>"
+msgstr ""
+
+#: includes/class-qm-form-handler.php:380
+msgid "Please enter your password."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:384
+msgid "Passwords do not match."
+msgstr ""
+
+#: includes/class-qm-form-handler.php:471, includes/qm-user-functions.php:345
+msgid "This username is empty."
+msgstr ""
+
+#: includes/class-qm-frontend-scripts.php:126, templates/single-test/doing/navigate.php:26
+msgid "Do you want to submit this test ?"
+msgstr ""
+
+#: includes/class-qm-install.php:149
+msgid "Monthly"
+msgstr ""
+
+#: includes/class-qm-install.php:199
+msgid "Member"
+msgstr ""
+
+#: includes/class-qm-install.php:204
+msgid "QuizMaker Manager"
+msgstr ""
+
+#: includes/class-qm-install.php:378
+msgctxt "Page slug"
+msgid "quiz"
+msgstr ""
+
+#: includes/class-qm-install.php:379
+msgctxt "Page title"
+msgid "Quizmaker Archive"
+msgstr ""
+
+#: includes/class-qm-install.php:383
+msgctxt "Page slug"
+msgid "qm-account"
+msgstr ""
+
+#: includes/class-qm-install.php:384
+msgctxt "Page title"
+msgid "Quizmaker My Account"
+msgstr ""
+
+#: includes/class-qm-install.php:388
+msgctxt "Page slug"
+msgid "qm-register"
+msgstr ""
+
+#: includes/class-qm-install.php:389
+msgctxt "Page title"
+msgid "Quizmaker Register"
+msgstr ""
+
+#: includes/class-qm-install.php:393
+msgctxt "Page slug"
+msgid "qm-login"
+msgstr ""
+
+#: includes/class-qm-install.php:394
+msgctxt "Page title"
+msgid "Quizmaker Login"
+msgstr ""
+
+#: includes/class-qm-mycred.php:23
+msgid "Points for passing test"
+msgstr ""
+
+#: includes/class-qm-mycred.php:24
+msgid "Award points for pass test in Quizmaker plugin"
+msgstr ""
+
+#: includes/class-qm-mycred.php:124
+msgid "%plural% for New Member"
+msgstr ""
+
+#: includes/class-qm-mycred.php:155, includes/class-qm-mycred.php:168
+msgid "myCRED"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:40, templates/myaccount/tabs_title/view_certificates.php:4
+msgid "Certificates"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:41, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:248, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:296, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:372, templates/single-test/result/questions.php:63
+msgid "Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:42
+msgctxt "Admin menu name"
+msgid "Certificates"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:43
+msgid "Add Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:44
+msgid "Add New Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:45, includes/class-qm-post-type-question.php:150, includes/class-qm-post-type-quiz.php:104, includes/class-qm-post-type-test.php:143, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:264, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:337, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:396
+msgid "Edit"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:46
+msgid "Edit Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:47
+msgid "New Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:48, includes/class-qm-post-type-certificate.php:49
+msgid "View Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:50
+msgid "Search Certificates"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:51
+msgid "No Certificates found"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:52
+msgid "No Certificates found in trash"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:53
+msgid "Parent Certificate"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:54
+msgid "Certificate Image"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:55
+msgid "Set Thumbnail"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:56
+msgid "Remove Thumbnail"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:57
+msgid "Use as Thumbnail"
+msgstr ""
+
+#: includes/class-qm-post-type-certificate.php:59
+msgid "This is where you can add new certificate."
+msgstr ""
+
+#: includes/class-qm-post-type-qanalytics.php:27, includes/class-qm-post-type-qanalytics.php:28
+msgid "Analytics"
+msgstr ""
+
+#: includes/class-qm-post-type-qanalytics.php:29
+msgctxt "Admin menu name"
+msgid "Quiz Analytics"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:61, includes/class-qm-post-type-question.php:63
+msgid "Question Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:64
+msgid "Question Category"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:65, includes/class-qm-post-type-quiz.php:59, includes/class-qm-post-type-test.php:59
+msgctxt "Admin menu name"
+msgid "Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:66
+msgid "Search Question Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:67
+msgid "All Question Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:68
+msgid "Parent Question Category"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:69
+msgid "Parent Question Category:"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:70
+msgid "Edit Question Category"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:71
+msgid "Update Question Category"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:72
+msgid "Add New Question Category"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:73
+msgid "New Question Category Name"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:84
+msgctxt "slug"
+msgid "question-category"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:96, includes/class-qm-post-type-question.php:98
+msgid "Question Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:99
+msgid "Question Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:100, includes/class-qm-post-type-test.php:94
+msgctxt "Admin menu name"
+msgid "Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:101
+msgid "Search Question Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:102
+msgid "All Question Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:103
+msgid "Edit Question Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:104
+msgid "Update Question Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:105
+msgid "Add New Question Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:106
+msgid "New Question Tag Name"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:107
+msgid "Popular Question Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:108
+msgid "Separate Question Tags with commas"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:109
+msgid "Add or remove Question Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:110
+msgid "Choose from the most used Question tags"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:111
+msgid "No Question Tags found"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:122
+msgctxt "slug"
+msgid "question-tag"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:145, includes/qm-template-functions.php:577
+msgid "Questions"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:146, templates/single-question.php:22
+msgid "Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:147
+msgctxt "Admin menu name"
+msgid "Questions"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:148
+msgid "Add Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:149
+msgid "Add New Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:151
+msgid "Edit Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:152
+msgid "New Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:153, includes/class-qm-post-type-question.php:154
+msgid "View Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:155, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:101
+msgid "Search Questions"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:156
+msgid "No Questions found"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:157
+msgid "No Questions found in trash"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:158
+msgid "Parent Question"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:159
+msgid "Question Image"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:160
+msgid "Set question image"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:161
+msgid "Remove question image"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:162
+msgid "Use as question image"
+msgstr ""
+
+#: includes/class-qm-post-type-question.php:164
+msgid "This is where you can add new questions."
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:55, includes/class-qm-post-type-quiz.php:57
+msgid "Quiz Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:58
+msgid "Quiz Category"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:60
+msgid "Search Quiz Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:61
+msgid "All Quiz Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:62
+msgid "Parent Quiz Category"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:63
+msgid "Parent Quiz Category:"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:64
+msgid "Edit Quiz Category"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:65
+msgid "Update Quiz Category"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:66
+msgid "Add New Quiz Category"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:67
+msgid "New Quiz Category Name"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:78
+msgctxt "slug"
+msgid "quiz-category"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:99, includes/class-qm-post-type-quiz.php:100
+msgid "Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:101
+msgctxt "Admin menu name"
+msgid "Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:102
+msgid "Add Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:103
+msgid "Add New Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:105
+msgid "Edit Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:106
+msgid "New Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:107, includes/class-qm-post-type-quiz.php:108
+msgid "View Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:109
+msgid "Search Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:110
+msgid "No Quiz found"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:111
+msgid "No Quiz found in trash"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:112
+msgid "Parent Quiz"
+msgstr ""
+
+#: includes/class-qm-post-type-quiz.php:114
+msgid "This is where you can add new Quiz."
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:55, includes/class-qm-post-type-test.php:57, includes/widgets/class-qm-widget-test-categories.php:34
+msgid "Test Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:58
+msgid "Test Category"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:60
+msgid "Search Test Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:61
+msgid "All Test Categories"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:62
+msgid "Parent Test Category"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:63
+msgid "Parent Test Category:"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:64
+msgid "Edit Test Category"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:65
+msgid "Update Test Category"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:66
+msgid "Add New Test Category"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:67
+msgid "New Test Category Name"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:78
+msgctxt "slug"
+msgid "test-category"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:90, includes/class-qm-post-type-test.php:92
+msgid "Test Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:93
+msgid "Test Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:95
+msgid "Search Test Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:96
+msgid "All Test Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:97
+msgid "Edit Test Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:98
+msgid "Update Test Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:99
+msgid "Add New Test Tag"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:100
+msgid "New Test Tag Name"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:101
+msgid "Popular Test Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:102
+msgid "Separate Test Tags with commas"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:103
+msgid "Add or remove Test Tags"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:104
+msgid "Choose from the most used Test tags"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:105
+msgid "No Test Tags found"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:116
+msgctxt "slug"
+msgid "test-tag"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:138, includes/admin/class-qm-admin-post-types.php:105, includes/widgets/class-qm-widget-test-filters.php:27, includes/widgets/class-qm-widget-tests.php:17, includes/admin/views/html-admin-dashboard.php:156
+msgid "Tests"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:139, includes/class-qm-woocommerce.php:184
+msgid "Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:140
+msgctxt "Admin menu name"
+msgid "Tests"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:141
+msgid "Add Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:142
+msgid "Add New Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:144
+msgid "Edit Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:145
+msgid "New Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:146, includes/class-qm-post-type-test.php:147
+msgid "View Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:148, includes/admin/meta-boxes/class-qm-meta-box-certificate-tests-data.php:40
+msgid "Search Tests"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:149
+msgid "No Tests found"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:150
+msgid "No Tests found in trash"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:151
+msgid "Parent Test"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:152
+msgid "Test Image"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:153
+msgid "Set test image"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:154
+msgid "Remove test image"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:155
+msgid "Use as test image"
+msgstr ""
+
+#: includes/class-qm-post-type-test.php:157
+msgid "This is where you can add new tests."
+msgstr ""
+
+#: includes/class-qm-post-type-usergroup.php:27
+msgid "User Groups"
+msgstr ""
+
+#: includes/class-qm-post-type-usergroup.php:28
+msgid "User Group"
+msgstr ""
+
+#: includes/class-qm-post-type-usergroup.php:29
+msgctxt "Admin menu name"
+msgid "User Groups"
+msgstr ""
+
+#: includes/class-qm-quiz.php:107, includes/class-qm-test.php:112
+msgid "minutes"
+msgstr ""
+
+#: includes/class-qm-quiz.php:107, includes/class-qm-quiz.php:119, includes/class-qm-test.php:112, includes/class-qm-test.php:124, includes/qm-template-functions.php:606
+msgid "unlimited"
+msgstr ""
+
+#: includes/class-qm-woocommerce.php:186
+msgid "Select a test from Quizmaker"
+msgstr ""
+
+#: includes/class-qm-woocommerce.php:189, includes/class-qm-woocommerce.php:194
+msgid "Search for Tests"
+msgstr ""
+
+#: includes/class-qm-woocommerce.php:213
+msgid "Quizmaker Test"
+msgstr ""
+
+#: includes/class-qm-woocommerce.php:450
+msgid "Your Ordered Tests"
+msgstr ""
+
+#: includes/class-qm-woocommerce.php:492
+msgid "Add to cart"
+msgstr ""
+
+#: includes/class-qm-woocommerce.php:492
+msgid "Read more"
+msgstr ""
+
+#: includes/qm-formatting-functions.php:87
+msgid "points"
+msgstr ""
+
+#: includes/qm-formatting-functions.php:90
+msgid "point"
+msgstr ""
+
+#: includes/qm-formatting-functions.php:153, includes/admin/qm-admin-functions.php:439, includes/admin/meta-boxes/class-qm-meta-box-question-data.php:34, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:873
+msgid "None"
+msgstr ""
+
+#: includes/qm-question-functions.php:593
+msgid "Single choice"
+msgstr ""
+
+#: includes/qm-question-functions.php:594
+msgid "Multiple choices"
+msgstr ""
+
+#: includes/qm-question-functions.php:595
+msgid "Fill in the blank"
+msgstr ""
+
+#: includes/qm-question-functions.php:596
+msgid "Item match"
+msgstr ""
+
+#: includes/qm-question-functions.php:597
+msgid "Group match"
+msgstr ""
+
+#: includes/qm-question-functions.php:598, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:140, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:200
+msgid "Order"
+msgstr ""
+
+#: includes/qm-question-functions.php:599
+msgid "Guess Word"
+msgstr ""
+
+#: includes/qm-question-functions.php:600
+msgid "Keywords"
+msgstr ""
+
+#: includes/qm-template-functions.php:228, includes/admin/settings/class-qm-settings-general.php:180
+msgid "Default sorting"
+msgstr ""
+
+#: includes/qm-template-functions.php:229, includes/admin/settings/class-qm-settings-general.php:181
+msgid "Sort by newness"
+msgstr ""
+
+#: includes/qm-template-functions.php:230, includes/admin/settings/class-qm-settings-general.php:182
+msgid "Sort by duration: low to high"
+msgstr ""
+
+#: includes/qm-template-functions.php:231, includes/admin/settings/class-qm-settings-general.php:183
+msgid "Sort by duration: high to low"
+msgstr ""
+
+#: includes/qm-template-functions.php:232, includes/admin/settings/class-qm-settings-general.php:184
+msgid "Sort by played: low to high"
+msgstr ""
+
+#: includes/qm-template-functions.php:233, includes/admin/settings/class-qm-settings-general.php:185
+msgid "Sort by played: high to low"
+msgstr ""
+
+#: includes/qm-template-functions.php:303, templates/myaccount/view-result.php:49
+msgid "Detail"
+msgstr ""
+
+#: includes/qm-template-functions.php:324
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/qm-template-functions.php:327
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: includes/qm-template-functions.php:569, includes/admin/class-qm-admin-post-types.php:72, templates/myaccount/view-assigned-tests.php:18, templates/myaccount/view-certificates.php:20, templates/myaccount/view-result.php:27, templates/myaccount/view-results.php:20, includes/admin/meta-boxes/class-qm-meta-box-result-data.php:24, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:560, includes/admin/views/html-admin-dashboard.php:155, templates/single-test/result/questions.php:46, includes/admin/meta-boxes/views/html-admin-all-general-results.php:9
+msgid "Duration"
+msgstr ""
+
+#: includes/qm-template-functions.php:573, includes/admin/class-qm-admin-post-types.php:73, templates/myaccount/view-assigned-tests.php:19, templates/myaccount/view-certificates.php:22, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:623
+msgid "Attempt"
+msgstr ""
+
+#: includes/qm-template-functions.php:589, includes/qm-template-functions.php:893, includes/admin/class-qm-admin-post-types.php:138, includes/admin/settings/class-qm-settings-general.php:143
+msgid "Rating"
+msgstr ""
+
+#: includes/qm-template-functions.php:609
+msgid "Corrected Times"
+msgstr ""
+
+#: includes/qm-template-functions.php:610
+msgid "Max Round"
+msgstr ""
+
+#: includes/qm-template-functions.php:627
+msgid "Playing"
+msgstr ""
+
+#: includes/qm-template-functions.php:627
+msgid "Correcting all questions"
+msgstr ""
+
+#: includes/qm-template-functions.php:816, templates/content-shortcode-viral-result.php:25, templates/content-single-test-ranking.php:14, includes/admin/class-qm-admin-post-types.php:88, templates/myaccount/view-certificates.php:18, templates/myaccount/view-result.php:24, templates/myaccount/view-results.php:18, templates/single-test/ranking.php:17, includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:30, includes/admin/meta-boxes/class-qm-meta-box-question-data.php:27, includes/admin/meta-boxes/class-qm-meta-box-result-data.php:22, includes/admin/views/html-admin-dashboard.php:154, templates/single-test/result/questions.php:39, includes/admin/meta-boxes/views/html-admin-all-general-results.php:8
+msgid "Score"
+msgstr ""
+
+#: includes/qm-test-functions.php:501, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:518
+msgid "Every Users"
+msgstr ""
+
+#: includes/qm-test-functions.php:502, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:519
+msgid "Private"
+msgstr ""
+
+#: includes/qm-test-functions.php:503, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:520
+msgid "Assigned Users"
+msgstr ""
+
+#: includes/qm-test-functions.php:504, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:521
+msgid "Assigned Groups"
+msgstr ""
+
+#: includes/qm-user-functions.php:328
+msgid "This email is empty."
+msgstr ""
+
+#: includes/qm-widget-functions.php:25
+msgid "Quizmaker Left Sidebar"
+msgstr ""
+
+#: includes/qm-widget-functions.php:34
+msgid "Quizmaker Right Sidebar"
+msgstr ""
+
+#: templates/content-fillform.php:45, templates/content-fillform.php:57, templates/myaccount/view-membership.php:17, templates/single-test/ranking.php:14, includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:29, includes/admin/meta-boxes/class-qm-meta-box-certificate-tests-data.php:28, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:80, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:249, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:288, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:364, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:430, includes/admin/meta-boxes/class-qm-meta-box-usergroup-data.php:29, includes/admin/views/html-admin-dashboard.php:56
+msgid "Name"
+msgstr ""
+
+#: templates/content-fillform.php:50, templates/content-fillform.php:62, templates/content-single-test-before-result.php:22, templates/myaccount/form-edit-account.php:35
+msgid "Email"
+msgstr ""
+
+#: templates/content-fillform.php:76
+msgid "View Result"
+msgstr ""
+
+#: templates/content-fillform.php:78
+msgid "Try Again"
+msgstr ""
+
+#: templates/content-questions.php:321, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:656
+msgid "Instant Answer"
+msgstr ""
+
+#: templates/content-shortcode-viral-result.php:9, templates/myaccount/view-certificates.php:19, templates/myaccount/view-result.php:25, templates/myaccount/view-results.php:19, templates/single-test/ranking.php:16, includes/admin/meta-boxes/class-qm-meta-box-result-data.php:21, includes/admin/views/html-admin-dashboard.php:153, templates/single-test/result/questions.php:34, includes/admin/meta-boxes/views/html-admin-all-general-results.php:7
+msgid "Percent"
+msgstr ""
+
+#: templates/content-shortcode-viral-result.php:17
+msgid "Corrected Questions"
+msgstr ""
+
+#: templates/content-single-certificate.php:22
+msgid "REGISTER"
+msgstr ""
+
+#: templates/content-single-test-before-result.php:29
+msgid "Create an account!"
+msgstr ""
+
+#: templates/content-single-test-before-result.php:35, templates/myaccount/form-login.php:31, templates/myaccount/form-lost-password.php:23, templates/myaccount/form-memberships.php:48, templates/myaccount/form-register.php:24, templates/myaccount/form-reset-password.php:14
+msgid "Password"
+msgstr ""
+
+#: templates/content-single-test-before-result.php:41, templates/single-test/result/questions.php:542
+msgid "Submit"
+msgstr ""
+
+#: templates/content-single-test-doing-0.php:45, templates/content-single-test-doing-1.php:56, templates/content-single-test-doing-2.php:47, templates/single-test/doing/navigate.php:113
+msgid "SUBMIT"
+msgstr ""
+
+#: templates/content-single-test-doing-1.php:22
+msgid "Round:"
+msgstr ""
+
+#: templates/content-single-test-doing-1.php:27
+msgid "Required Correct:"
+msgstr ""
+
+#: templates/content-single-test-ranking.php:12, templates/single-test/ranking.php:9, includes/admin/meta-boxes/class-qm-meta-box-result-data.php:25, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:60, includes/admin/meta-boxes/views/html-admin-all-general-results.php:10
+msgid "Ranking"
+msgstr ""
+
+#: templates/content-single-test-ranking.php:13, includes/admin/meta-boxes/class-qm-meta-box-member-data.php:70, includes/admin/meta-boxes/class-qm-meta-box-result-data.php:27, includes/admin/views/html-admin-dashboard.php:152
+msgid "User"
+msgstr ""
+
+#: templates/test-searchform.php:7
+msgctxt "placeholder"
+msgid "Search Tests&hellip;"
+msgstr ""
+
+#: templates/test-searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: includes/abstracts/abstract-qm-widget.php:265
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-qm-admin-menus.php:38, includes/admin/class-qm-admin-menus.php:39
+msgid "QuizMaker"
+msgstr ""
+
+#: includes/admin/class-qm-admin-menus.php:45, includes/admin/class-qm-admin-menus.php:46, includes/admin/views/html-admin-dashboard.php:12
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-qm-admin-menus.php:51, includes/admin/class-qm-admin-menus.php:52
+msgid "User Certificates"
+msgstr ""
+
+#: includes/admin/class-qm-admin-menus.php:57, includes/admin/class-qm-admin-menus.php:58, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:21, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:277, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:63
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-qm-admin-menus.php:63, includes/admin/class-qm-admin-menus.php:64
+msgid "Importing"
+msgstr ""
+
+#: includes/admin/class-qm-admin-menus.php:69, includes/admin/class-qm-admin-menus.php:70
+msgid "Extensions"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:61
+msgid "Question Data"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:63
+msgid "Answers"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:65
+msgid "Test Data"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:67
+msgid "Results Data"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:69, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:20
+msgid "Composer"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:71, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:61
+msgid "Users"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:73
+msgid "Quiz Composer"
+msgstr ""
+
+#: includes/admin/class-qm-admin-meta-boxes.php:75
+msgid "Data"
+msgstr ""
+
+#: includes/admin/class-qm-admin-notices.php:94, includes/admin/class-qm-admin-settings.php:37
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:71, includes/admin/class-qm-admin-post-types.php:87, includes/admin/class-qm-admin-post-types.php:102, includes/admin/class-qm-admin-post-types.php:118, includes/admin/class-qm-admin-post-types.php:134, includes/widgets/class-qm-widget-test-categories.php:35, includes/widgets/class-qm-widget-test-filters.php:28, includes/widgets/class-qm-widget-test-search.php:28, includes/widgets/class-qm-widget-tests.php:18, templates/myaccount/view-assigned-tests.php:17, templates/myaccount/view-certificates.php:17, templates/myaccount/view-results.php:17, includes/admin/views/html-admin-dashboard.php:88, includes/admin/views/html-admin-dashboard.php:118, includes/admin/views/html-admin-importing-questions.php:58
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:74
+msgid "Publish For"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:75, includes/admin/class-qm-admin-post-types.php:90
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:89, includes/admin/meta-boxes/views/html-admin-answer-data.php:6
+msgid "Answer Type"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:103, templates/myaccount/view-membership.php:22
+msgid "Price"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:104
+msgid "Members"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:106
+msgid "Default"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:119
+msgid "Membership"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:120, includes/admin/meta-boxes/class-qm-meta-box-member-data.php:48
+msgid "Payment"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:121, templates/myaccount/view-membership.php:35
+msgid "Expired"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:135
+msgid "View"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:136
+msgid "Player"
+msgstr ""
+
+#: includes/admin/class-qm-admin-post-types.php:137
+msgid "Total Share"
+msgstr ""
+
+#: includes/admin/class-qm-admin-settings.php:48
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/class-qm-admin-settings.php:476
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-login.php:23
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:183
+msgid "Your password has been reset."
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:183
+msgid "Log in"
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:196
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:212, includes/shortcodes/class-qm-shortcode-my-account.php:217
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:230
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:255
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-my-account.php:265, includes/shortcodes/class-qm-shortcode-my-account.php:270, includes/shortcodes/class-qm-shortcode-my-account.php:286
+msgid "Invalid key"
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-viral.php:102
+msgid "PREVIOUS"
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-viral.php:103
+msgid "CONTINUE"
+msgstr ""
+
+#: includes/shortcodes/class-qm-shortcode-viral.php:106
+msgid "Finish"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:28
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:30
+msgid "Quizmaker Test Categories"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:40
+msgid "Show test counts"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:45
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:50
+msgid "Only show children of the current category"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:55
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-categories.php:183
+msgid "No test categories exist."
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-filters.php:21
+msgid "Display a test filters on your site."
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-filters.php:23
+msgid "Quizmaker Test Filters"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-filters.php:68
+msgid "Type to search"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-filters.php:99, templates/single-test/doing/navigate.php:128
+msgid "Next"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-search.php:21
+msgid "Display a test search on your site."
+msgstr ""
+
+#: includes/widgets/class-qm-widget-test-search.php:23
+msgid "Quizmaker Test Search"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:11
+msgid "Display a list of your products on your site."
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:13
+msgid "Quizmaker Tests"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:23, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:169, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:225
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:31
+msgid "Number of tests to show"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:36, includes/admin/meta-boxes/views/html-admin-answer-data-guess-word-tab.php:6
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:38
+msgid "All Tests"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:39
+msgid "Featured Tests"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:45
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:47, templates/myaccount/view-certificates.php:21, templates/myaccount/view-membership.php:28, templates/myaccount/view-result.php:28, templates/myaccount/view-results.php:21, includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:31, includes/admin/meta-boxes/class-qm-meta-box-result-data.php:26, includes/admin/views/html-admin-dashboard.php:58, includes/admin/views/html-admin-dashboard.php:89, includes/admin/views/html-admin-dashboard.php:157, templates/single-test/result/questions.php:51, includes/admin/meta-boxes/views/html-admin-all-general-results.php:12
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:48
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:54
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:56
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:57
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:63
+msgid "Display Title"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:68
+msgid "Display Thumbnail"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:73
+msgid "Display Date"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:78
+msgid "Display Description"
+msgstr ""
+
+#: includes/widgets/class-qm-widget-tests.php:83
+msgid "Display Rating"
+msgstr ""
+
+#: templates/emails/reset-password.php:12
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: templates/emails/reset-password.php:15
+msgid "Username: %s"
+msgstr ""
+
+#: templates/emails/reset-password.php:18
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: templates/emails/reset-password.php:21
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: templates/emails/reset-password.php:24
+msgid "Click here to reset your password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:17, templates/single-test/result/guest-register.php:20
+msgid "First name"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:26, templates/single-test/result/guest-register.php:27
+msgid "Last name"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:44, templates/myaccount/form-memberships.php:38, templates/myaccount/form-register.php:14, includes/admin/views/html-admin-dashboard.php:57, templates/single-test/result/guest-register.php:42
+msgid "Username"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:53, templates/single-test/result/guest-register.php:49
+msgid "New Password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:57
+msgid "Leave blank to leave unchanged"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:62, templates/single-test/result/guest-register.php:55
+msgid "Confirm New Password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:75, includes/admin/views/html-admin-settings.php:33, templates/single-test/result/guest-register.php:66
+msgid "Save changes"
+msgstr ""
+
+#: templates/myaccount/form-login.php:18, templates/myaccount/form-login.php:44, templates/myaccount/view-activation.php:17
+msgid "Login"
+msgstr ""
+
+#: templates/myaccount/form-login.php:25, templates/myaccount/form-lost-password.php:14
+msgid "Username or email"
+msgstr ""
+
+#: templates/myaccount/form-login.php:35
+msgid "Lost your password?"
+msgstr ""
+
+#: templates/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: templates/myaccount/form-login.php:54, templates/myaccount/form-memberships.php:23, templates/myaccount/form-memberships.php:76, templates/myaccount/form-memberships.php:110, templates/myaccount/form-register.php:7, templates/myaccount/form-register.php:32
+msgid "Register"
+msgstr ""
+
+#: templates/myaccount/form-lost-password.php:7
+msgid "Lost Password"
+msgstr ""
+
+#: templates/myaccount/form-lost-password.php:30, templates/myaccount/form-reset-password.php:21
+msgid "Password Again"
+msgstr ""
+
+#: templates/myaccount/form-lost-password.php:45, includes/admin/settings/class-qm-settings-emails.php:156
+msgid "Reset Password"
+msgstr ""
+
+#: templates/myaccount/form-memberships-upgrade.php:16, templates/myaccount/form-memberships.php:66
+msgid "CHECKOUT SUCCESS!"
+msgstr ""
+
+#: templates/myaccount/form-memberships-upgrade.php:19, templates/myaccount/tabs-start.php:6
+msgid "My Account"
+msgstr ""
+
+#: templates/myaccount/form-memberships-upgrade.php:31, templates/myaccount/form-memberships.php:19, templates/myaccount/form-memberships.php:72, templates/myaccount/form-memberships.php:106
+msgid "Choose Package"
+msgstr ""
+
+#: templates/myaccount/form-memberships-upgrade.php:35, templates/myaccount/form-memberships.php:27, templates/myaccount/form-memberships.php:80, templates/myaccount/form-memberships.php:114
+msgid "Checkout"
+msgstr ""
+
+#: templates/myaccount/form-memberships-upgrade.php:48
+msgid "Select"
+msgstr ""
+
+#: templates/myaccount/form-memberships.php:13
+msgid "MEMBERSHIPS"
+msgstr ""
+
+#: templates/myaccount/form-memberships.php:56
+msgid "Proceed Checkout"
+msgstr ""
+
+#: templates/myaccount/form-reset-password.php:31
+msgid "Reset"
+msgstr ""
+
+#: templates/myaccount/my-account.php:15
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: templates/myaccount/my-account.php:20
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
+msgstr ""
+
+#: templates/myaccount/tabs-start.php:26
+msgid "Logout"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:14
+msgid "Your account is activated!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:15
+msgid "You could click this link for Login"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:23
+msgid "Your activation key is not valid!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:24
+msgid "You need to access your email and click to the valid activate link"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:26, templates/myaccount/view-activation.php:35, templates/myaccount/view-activation.php:44
+msgid "Home"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:32
+msgid "Your account is not activated!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:33
+msgid "You need to access your email and click to the activate link"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:41
+msgid "Account registered successfully!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:42
+msgid "Check your email for activate your account!"
+msgstr ""
+
+#: templates/myaccount/view-assigned-tests.php:35, templates/myaccount/tabs_title/view_results.php:4
+msgid "Results"
+msgstr ""
+
+#: templates/myaccount/view-membership.php:13
+msgid "MEMBERSHIP"
+msgstr ""
+
+#: templates/myaccount/view-membership.php:42
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/myaccount/view-membership.php:71, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:325, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:499, includes/admin/meta-boxes/views/html-admin-all-general-results.php:55, includes/admin/meta-boxes/views/html-admin-assigned-users.php:14, includes/admin/meta-boxes/views/html-admin-certificate-tests.php:17, includes/admin/meta-boxes/views/html-admin-fixed-questions.php:13, includes/admin/meta-boxes/views/html-admin-lastest-general-results.php:44, includes/admin/meta-boxes/views/html-admin-order-fixed-questions.php:15, includes/admin/meta-boxes/views/html-admin-user-groups.php:14
+msgid "No Data"
+msgstr ""
+
+#: templates/myaccount/view-result.php:22, templates/single-test/ranking.php:15, includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:32, templates/single-test/result/questions.php:57
+msgid "Rank"
+msgstr ""
+
+#: templates/myaccount/view-results.php:48, includes/admin/meta-boxes/views/html-admin-lastest-general-results.php:35
+msgid "View All"
+msgstr ""
+
+#: templates/single-test/review.php:12
+msgid "Comments"
+msgstr ""
+
+#: templates/single-test/start.php:15, templates/single-test/start.php:18
+msgid "START"
+msgstr ""
+
+#: templates/single-test/start.php:20
+msgid "LOGIN/REGISTER"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:27
+msgid "Add Background"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:28
+msgid "Custom Text"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:33
+msgid "Test Name"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:34, includes/admin/meta-boxes/views/html-admin-all-general-results.php:11
+msgid "Cert ID"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:35
+msgid "User Cert ID"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:49, includes/admin/meta-boxes/class-qm-meta-box-certificate-tests-data.php:50, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:265, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:338, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:397, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:465, includes/admin/meta-boxes/class-qm-meta-box-usergroup-data.php:50
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:50
+msgid "Update"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:55
+msgid "Font Size"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:61
+msgid "Font Family"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:89
+msgid "Text Align"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:92
+msgid "Align Left"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:93
+msgid "Align Center"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:94
+msgid "Align Right"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:99
+msgid "Color"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-data.php:105, includes/admin/meta-boxes/views/html-admin-answer-data-dragmatch-tab.php:24, includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:24, includes/admin/meta-boxes/views/html-admin-answer-data-guess-word-tab.php:7, includes/admin/meta-boxes/views/html-admin-answer-data-keywords-tab.php:24, includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:40, includes/admin/meta-boxes/views/html-admin-answer-data-order-tab.php:28, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:40
+msgid "Content"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-tests-data.php:29
+msgid "Pass"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-certificate-tests-data.php:46, includes/admin/meta-boxes/class-qm-meta-box-usergroup-data.php:46
+msgid "Add"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-member-data.php:40
+msgid "Memberships"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-member-data.php:60
+msgid "Date Paid"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-member-data.php:76
+msgid "Date Registered"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-member-data.php:85, templates/myaccount/tabs_title/view_assigned_tests.php:4
+msgid "Assigned Tests"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-question-data.php:32
+msgid "Order Type"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-question-data.php:42
+msgid "Timeout"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-question-data.php:48
+msgid "Explanation"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:22
+msgid "Marketing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:100
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:125
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:192
+msgid "Update Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:211, includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:235
+msgid "Lists"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:260
+msgid "Update Marketing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:379
+msgid "Sort"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-quiz-data.php:398
+msgid "Guess Question"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-result-data.php:23
+msgid "Attend"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-result-data.php:50
+msgid "Export CSV"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-result-data.php:54
+msgid "Remove All"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:58
+msgid "Fixed Questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:59
+msgid "Random Questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:62
+msgid "Groups"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:106
+msgid "Save questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:109
+msgid "Order Questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:110
+msgid "Remove Question"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:123
+msgid "Type Random"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:127
+msgid "No Random"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:128
+msgid "Selected Category"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:129
+msgid "Per Category"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:144, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:203
+msgid "Mixed"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:147
+msgid "Custom Order"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:153, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:209
+msgid "Position"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:156, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:212
+msgid "Mixed with fixed questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:157, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:213
+msgid "Top fixed questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:158, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:214
+msgid "Bottom fixed questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:170, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:224
+msgid "Total"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:185
+msgid "Total Question"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:204
+msgid "Group by Category"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:246, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:272, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:348
+msgid "Min Score"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:247, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:280, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:356
+msgid "Max Score"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:303, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:382, templates/single-test/result/questions.php:537
+msgid "Message"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:314, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:393, templates/single-test/doing/navigate.php:31, templates/single-test/result/questions.php:544
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:316
+msgid "Update Ranking"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:392, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:395, templates/single-test/doing/navigate.php:116
+msgid "Save"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:410
+msgid "Add Ranking"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:455, includes/admin/meta-boxes/class-qm-meta-box-usergroup-data.php:40
+msgid "Search Users"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:460
+msgid "Save users"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:461
+msgid "Email Inform"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:481
+msgid "Group Name"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:515
+msgid "Publish for"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:529
+msgid "Type Testing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:532
+msgid "Normal"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:533
+msgid "Infinite"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:534
+msgid "Adaptive"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:542
+msgid "Adaptive Times"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:551
+msgid "Adaptive Max Round"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:567, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:599, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:631, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:663, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:670, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:692, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:699, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:720, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:727, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:752, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:759, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:784, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:791, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:816, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:823, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:844, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:851, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:890, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:897, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:918, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:925, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:946, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:953, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:978, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:985, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1006, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1013, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1037, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1044, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1068, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1075, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1098, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1105, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1130, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1137
+msgid "ON"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:568, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:571, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:600, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:603, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:632, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:635, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:664, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:667, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:693, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:696, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:721, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:724, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:753, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:756, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:785, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:788, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:817, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:820, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:845, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:848, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:891, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:894, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:919, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:922, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:947, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:950, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:979, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:982, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1007, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1010, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1038, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1041, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1069, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1072, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1099, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1102, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1131, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1134
+msgid "OFF"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:580
+msgid "Minutes"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:581, includes/admin/meta-boxes/class-qm-meta-box-test-data.php:645
+msgid "Unlimited"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:591
+msgid "Display"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:612
+msgid "Question perpage"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:613
+msgid "All questions in a single page"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:644
+msgid "Times for each member"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:685
+msgid "Show Result"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:713
+msgid "Show Answers"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:734
+msgid "Show answers in results"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:735
+msgid "Hide answers in results"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:745
+msgid "Shuffle Answers"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:766
+msgid "Shuffle answers when doing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:767
+msgid "No shuffle answers when doing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:777
+msgid "Timeout Answer"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:798
+msgid "Set timeout for answer"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:799
+msgid "Unlimited timeout for answer"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:809
+msgid "Show Score"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:837
+msgid "User Score"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:858
+msgid "Adding score to user"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:859
+msgid "No adding score to user"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:870
+msgid "Show Explanation"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:874
+msgid "On Doing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:875
+msgid "Only On Result"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:883
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:911
+msgid "Backward"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:939
+msgid "Show Ranking"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:960
+msgid "Show ranking in single test"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:961
+msgid "Hide ranking in single test"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:971
+msgid "Show Sidebar Tracking"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:999
+msgid "Question Title"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1020
+msgid "Show question title"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1021
+msgid "Hide question title"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1030
+msgid "Enable reviews"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1051
+msgid "Show reviews"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1052
+msgid "Hide reviews"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1061, templates/single-test/result/questions.php:530
+msgid "Question Report"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1082
+msgid "User can make a question report after completing the test"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1091
+msgid "Email result"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1112
+msgid "Email result to member when complete testing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1113
+msgid "No email result to member when complete testing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1123
+msgid "Reset Rating"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-qm-meta-box-test-data.php:1144
+msgid "The rating of test will be reset"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:13
+msgid "Emails"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:26
+msgid "Sender Options"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:29
+msgid "\"From\" Name"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:39
+msgid "\"From\" Email"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:50
+msgid "Template"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:53
+msgid "Header Image"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:63
+msgid "Footer Text"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:74
+msgid "New Member"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:77, includes/admin/settings/class-qm-settings-emails.php:101, includes/admin/settings/class-qm-settings-emails.php:135, includes/admin/settings/class-qm-settings-emails.php:159
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:87, includes/admin/settings/class-qm-settings-emails.php:111, includes/admin/settings/class-qm-settings-emails.php:145, includes/admin/settings/class-qm-settings-emails.php:169
+msgid "Email Heading"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:98
+msgid "New Result"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:121
+msgid "Email Result To Admin"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-emails.php:132
+msgid "Assign Test"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-forms.php:15, includes/admin/settings/class-qm-settings-forms.php:50
+msgid "After Play Test Form"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-forms.php:26
+msgid "After Play Test"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:16
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:34, includes/admin/settings/class-qm-settings-marketing-app.php:84
+msgid "General Options"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:37
+msgid "Archive Test Page"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:38, includes/admin/settings/class-qm-settings-general.php:49, includes/admin/settings/class-qm-settings-general.php:60, includes/admin/settings/class-qm-settings-general.php:71
+msgid "Page contents:"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:48
+msgid "My Account Page"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:59
+msgid "Register Page"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:70
+msgid "Login Page"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:81
+msgid "Guest can play test not need to register"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:83
+msgid "Guest Play Test"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:89
+msgid "User must fill a form after complete a test"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:91
+msgid "Enable User Fill Form"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:97
+msgid "User can view the result when having a ranking"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:99
+msgid "User Ranking View Result"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:105
+msgid "Remove data when uninstall"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:107
+msgid "Remove Data"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:113
+msgid "Change plugin to debug status"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:115
+msgid "Debug"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:122
+msgid "Display Options"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:125
+msgid "Load default stylesheet"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:127
+msgid "Default Stylesheet"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:133
+msgid "Load boostrap Library"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:135
+msgid "Load Boostrap Library"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:141
+msgid "User can rate a test after completing that test"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:149
+msgid "User can share the result to social"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:151
+msgid "Share Result"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:157
+msgid "Show user score in my account"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:159
+msgid "Show User Score"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:165
+msgid "Posts per Page"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:175
+msgid "Default Test Order"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:191
+msgid "Social Options"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:194
+msgid "Facebook App ID"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:205
+msgid "Captcha Options"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:208
+msgid "Captcha Key"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:218
+msgid "Captcha Secret"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-general.php:228
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:13
+msgid "Marketing App"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:24
+msgid "General options"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:25
+msgid "Mailchimp"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:26
+msgid "GetResponse"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:47
+msgid "MailChimp API keys"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:50, includes/admin/settings/class-qm-settings-marketing-app.php:69
+msgid "API key"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:66
+msgid "GetResponse API keys"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:86
+msgid "All user data will push to Marketing App"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-marketing-app.php:88
+msgid "Enable Marketing App"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:16
+msgid "Verify Purchased"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:34
+msgid "Inputing your purchase code"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:38
+msgid "<strong style=\"color: green;\">Thanks you! Your purchase code is valid</strong>"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:41
+msgid "<strong style=\"color: red;\">Sorry! Your purchase code is not validated</strong>"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:48
+msgid "Get Quizmaker purchase code from your admin envato"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:51
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/admin/settings/class-qm-settings-verify.php:99
+msgid "Please inputing your purchase code"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:18
+msgid "Total Tests"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:27
+msgid "Total Questions"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:36
+msgid "Total Members"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:50
+msgid "New Users"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:73, includes/admin/views/html-admin-dashboard.php:103, includes/admin/views/html-admin-dashboard.php:133, includes/admin/views/html-admin-dashboard.php:175
+msgid "NO DATA"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:82
+msgid "New Tests"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:112
+msgid "Top Played Tests"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:119
+msgid "Count"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:146
+msgid "Lastest Results"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:19
+msgid "Quizmaker - Extensions"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:24
+msgid "Premium"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:25
+msgid "Free"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:58
+msgid "From"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:67, includes/admin/views/html-admin-extensions.php:108
+msgid "Active Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:71, includes/admin/views/html-admin-extensions.php:112
+msgid "Deactivate Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:75, includes/admin/views/html-admin-extensions.php:116
+msgid "Download Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-importing-questions.php:3
+msgid "Question Importing"
+msgstr ""
+
+#: includes/admin/views/html-admin-importing-questions.php:9
+msgid "Hi there! Upload a CSV file containing questions to import the contents into your question bank. Choose a .csv file to upload, then click \"Upload file and import\"."
+msgstr ""
+
+#: includes/admin/views/html-admin-importing-questions.php:11
+msgid "Click here to download a sample"
+msgstr ""
+
+#: includes/admin/views/html-admin-importing-questions.php:13
+msgid "How to using options in csv file:"
+msgstr ""
+
+#: includes/admin/views/html-admin-importing-questions.php:59
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/html-admin-importing-questions.php:69
+msgid "Complete"
+msgstr ""
+
+#: includes/admin/views/html-admin-user-certificates.php:38
+msgid "Guest"
+msgstr ""
+
+#: includes/admin/views/html-admin-user-certificates.php:60
+msgid "Find Certificates"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:12
+msgid "<strong>Welcome to Quizmaker</strong> &#8211; You&lsquo;re almost ready to start making tests :)"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:12, includes/admin/views/html-notice-updating.php:12
+msgid "Quizmaker Data Update"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:12
+msgid "We need to update your database to the latest version."
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:13
+msgid "Run the updater"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:17
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: includes/admin/views/html-notice-updated.php:12
+msgid "Dismiss"
+msgstr ""
+
+#: includes/admin/views/html-notice-updated.php:14
+msgid "Quizmaker data update complete. Thank you for updating to the latest version!"
+msgstr ""
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Your database is being updated in the background."
+msgstr ""
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#: templates/myaccount/tabs_title/view_edit_account.php:4
+msgid "Edit Account"
+msgstr ""
+
+#: templates/single-test/doing/instant_answer.php:9, includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:39, includes/admin/meta-boxes/views/html-admin-answer-data-order-tab.php:27, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:39
+msgid "Correct"
+msgstr ""
+
+#: templates/single-test/doing/instant_answer.php:16
+msgid "Wrong"
+msgstr ""
+
+#: templates/single-test/doing/instant_answer.php:32
+msgid "Next Page"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:32
+msgid "OK"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:43
+msgid "You must answer all questions"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:48, templates/single-test/doing/navigate.php:64
+msgid "Continue"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:59
+msgid "Save Success!"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:65
+msgid "Exit"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:124
+msgid "Sidebar"
+msgstr ""
+
+#: templates/single-test/doing/navigate.php:129
+msgid "Prev"
+msgstr ""
+
+#: templates/single-test/result/guest-register.php:13
+msgid "CREATE AN ACCOUNT"
+msgstr ""
+
+#: templates/single-test/result/questions.php:29
+msgid "Corrects"
+msgstr ""
+
+#: templates/single-test/result/questions.php:64
+msgid "Download"
+msgstr ""
+
+#: templates/single-test/result/questions.php:521
+msgid "Back to the test"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-all-general-results.php:48, includes/admin/meta-boxes/views/html-admin-lastest-general-results.php:37
+msgid "Result"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-dragmatch-tab.php:12, includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:12, includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:27, includes/admin/meta-boxes/views/html-admin-answer-data-order-tab.php:15, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:27
+msgid "Style"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-dragmatch-tab.php:14, includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:14
+msgid "Drag Left to Right"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-dragmatch-tab.php:15, includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:15
+msgid "Drag Right to Left"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-dragmatch-tab.php:38, includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:45
+msgid "Answer"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-dragmatch-tab.php:54, includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:62, includes/admin/meta-boxes/views/html-admin-answer-data-guess-word-tab.php:38, includes/admin/meta-boxes/views/html-admin-answer-data-keywords-tab.php:51, includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:78, includes/admin/meta-boxes/views/html-admin-answer-data-order-tab.php:62, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:75
+msgid "Add answer"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-groupmatch-tab.php:39
+msgid "Group"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-keywords-tab.php:15
+msgid "Min Corrects"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:16, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:16
+msgid "Columns"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:29, includes/admin/meta-boxes/views/html-admin-answer-data-order-tab.php:17, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:29
+msgid "Line"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-admin-answer-data-multiple-tab.php:30, includes/admin/meta-boxes/views/html-admin-answer-data-order-tab.php:18, includes/admin/meta-boxes/views/html-admin-answer-data-single-tab.php:30
+msgid "Block"
+msgstr ""

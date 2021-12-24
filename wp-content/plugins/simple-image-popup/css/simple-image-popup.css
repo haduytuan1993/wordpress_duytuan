@@ -1,0 +1,22 @@
+.sip_popup {
+      position: relative;
+      background: #FFF;
+      padding: 5px;
+      width: auto;
+      margin: 20px auto;
+}
+
+
+.sip_popup .sip_inner_image {
+      width:100%;
+}
+
+
+.mfp-wrap { 
+	z-index: 99999 !important
+}
+
+
+.mfp-bg { 
+	z-index: 88888 !important
+}

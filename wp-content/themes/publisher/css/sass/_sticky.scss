@@ -1,0 +1,13 @@
+
+.wpb_column.sticky-column {
+  min-height: 0 !important;
+}
+
+.bs-vc-wrapper:after, .bs-vc-wrapper:before {
+  content: " ";
+  display: table;
+}
+
+.bs-vc-wrapper:after {
+  clear: both;
+}

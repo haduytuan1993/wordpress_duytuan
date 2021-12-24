@@ -1,0 +1,68 @@
+
+
+.aws-ui-dialog {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+
+	.overlay {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(0, 0, 0, 0.48);
+	}
+
+	.aws-ui-dialog_close {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 30px;
+		height: 30px;
+		border: 0;
+		outline: none;
+		box-shadow: none;
+		font-size: 22px;
+		background: #0186b9;
+
+		.ion-icon("\f404");
+
+		&:before {
+			color: #FFF;
+		}
+	}
+
+	.aws-ui-dialog_content {
+		position: absolute;
+		background: #FFFFFF;
+		
+	}
+
+	.aws-ui-dialog_content_title {
+		padding: 6px 10px;
+		background: #06b1f3;
+		color: #FFFFFF;
+		font-weight: bold;
+	}
+
+	.aws-ui-dialog_content_body {
+		padding: 10px;
+		
+		&.scroll {
+			overflow-y: scroll;
+		}
+	}
+
+	.aws-ui-dialog_content_action {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		padding: 10px;
+
+		button { margin-left: 10px; }
+	}
+}

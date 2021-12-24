@@ -1,0 +1,59 @@
+
+
+
+#qm-page-myaccount {
+
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+    border-radius: 0;
+    padding: 0;
+    box-shadow: none;
+ 	outline: none;
+ 	background: #FFF;
+
+ 	.toolbar--fixed,
+ 	.navigation-drawer ~ main {
+ 		.transition(all 0.35s);
+ 	}
+
+ 	.navigation-drawer ~ main {
+
+ 		position: fixed;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: 100%;
+	    overflow-y: scroll;
+	    padding-top: 64px;
+	    padding-bottom: 0;
+	    padding-right: 1px;
+ 	}
+
+ 	.navigation-drawer--open:not(.navigation-drawer--is-mobile) + .toolbar--fixed {
+		padding-left: 300px;
+	}
+
+	.navigation-drawer--close:not(.navigation-drawer--is-mobile) + .toolbar--fixed {
+		padding-left: 0;
+	}
+
+	.navigation-drawer--open:not(.navigation-drawer--is-mobile) ~ main {
+
+	    
+	    padding-left: 300px;
+	    
+	}
+
+	.toolbar--fixed+main {
+		padding-top: 64px;
+		flex: none;
+	}
+
+	.container.fluid {
+		margin: 0;
+	}
+}
